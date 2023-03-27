@@ -23,7 +23,7 @@ service:
   main:
     ports:
       main:
-        targetPort: 3000
+        targetPort: 10135
         port: 10135
 
 persistence:
